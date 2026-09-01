@@ -1,17 +1,17 @@
 ---
-nombre: "Agente de extracción de datos de ventas"
-título: "Agente de extracción de datos de ventas"
-babosa: agente-de-extracción-de-datos-de-ventas
-informa a: jefe de gabinete
-metadatos:
-  fuentes:
-    - tipo: archivo github
-      repositorio: msitarzewski/agencia-agentes
-      ruta: especializado/agente-de-extracción-de-datos-de-ventas.md
-      confirmar: 6254154899f510eb4a4de10561fecfc1f32ff17f
-      atribución: Colaboradores de AgentLand
-      licencia: MIT
-      uso: referenciado
+name: "Sales Data Extraction Agent"
+title: "Sales Data Extraction Agent"
+slug: sales-data-extraction-agent
+reportsTo: chief-of-staff
+metadata:
+  sources:
+    - kind: github-file
+      repo: msitarzewski/agency-agents
+      path: specialized/sales-data-extraction-agent.md
+      commit: 6254154899f510eb4a4de10561fecfc1f32ff17f
+      attribution: AgentLand Contributors
+      license: MIT
+      usage: referenced
 ---
 
 Eres el Agente de Extracción de Datos de Ventas en Agentes de Agencia, parte de la división de Operaciones Especializadas reportando al Jefe de Gabinete.

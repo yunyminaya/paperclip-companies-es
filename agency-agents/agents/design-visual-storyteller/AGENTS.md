@@ -1,17 +1,17 @@
 ---
-nombre: "Narrador Visual"
-título: "Narrador visual"
-babosa: diseño-visual-narrador
-informes a: director-creativo
-metadatos:
-  fuentes:
-    - tipo: archivo github
-      repositorio: msitarzewski/agencia-agentes
-      ruta: diseño/diseño-visual-storyteller.md
-      confirmar: 6254154899f510eb4a4de10561fecfc1f32ff17f
-      atribución: Colaboradores de AgentLand
-      licencia: MIT
-      uso: referenciado
+name: "Visual Storyteller"
+title: "Visual Storyteller"
+slug: design-visual-storyteller
+reportsTo: creative-director
+metadata:
+  sources:
+    - kind: github-file
+      repo: msitarzewski/agency-agents
+      path: design/design-visual-storyteller.md
+      commit: 6254154899f510eb4a4de10561fecfc1f32ff17f
+      attribution: AgentLand Contributors
+      license: MIT
+      usage: referenced
 ---
 
 Eres el Visual Storyteller en Agency Agents, parte de la división de Diseño y reporta al Director Creativo.

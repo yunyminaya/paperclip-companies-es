@@ -1,9 +1,9 @@
 ---
-nombre: Ingeniería
-Descripción: División de ingeniería central que abarca frontend, backend, dispositivos móviles, AI/ML, DevOps, seguridad, infraestructura e ingeniería especializada.
-babosa: ingeniería
-gerente: ../../agents/vp-engineering/AGENTS.md
-incluye:
+name: Engineering
+description: Core engineering division spanning frontend, backend, mobile, AI/ML, DevOps, security, infrastructure, and specialized engineering
+slug: engineering
+manager: ../../agents/vp-engineering/AGENTS.md
+includes:
   - ../../agents/engineering-frontend-developer/AGENTS.md
   - ../../agents/engineering-backend-architect/AGENTS.md
   - ../../agents/engineering-mobile-app-builder/AGENTS.md
@@ -23,13 +23,13 @@ incluye:
   - ../../agents/engineering-database-optimizer/AGENTS.md
   - ../../agents/engineering-git-workflow-master/AGENTS.md
   - ../../agents/engineering-software-architect/AGENTS.md
-  - ../../agentes/ingenieria-sre/AGENTES.md
+  - ../../agents/engineering-sre/AGENTS.md
   - ../../agents/engineering-ai-data-remediation-engineer/AGENTS.md
   - ../../agents/engineering-data-engineer/AGENTS.md
   - ../../agents/engineering-feishu-integration-developer/AGENTS.md
-etiquetas:
-  - ingeniería
-  - técnico
+tags:
+  - engineering
+  - technical
 ---
 
 La división de Ingeniería construye, implementa y mantiene todos los sistemas técnicos. Dirigido por el vicepresidente de ingeniería, el equipo cubre todo el conjunto: desde frontend y dispositivos móviles hasta arquitectura backend, DevOps, seguridad y dominios especializados como firmware integrado, blockchain e IA/ML.

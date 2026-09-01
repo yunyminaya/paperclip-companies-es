@@ -1,17 +1,17 @@
 ---
-nombre: Operaciones Especializadas
-Descripción: División de capacidades transversales que cubre cumplimiento, automatización, gestión del conocimiento, defensa de los desarrolladores e investigación académica.
-babosa: operaciones especializadas
-gerente: ../../agents/chief-of-staff/AGENTS.md
-incluye:
+name: Specialized Operations
+description: Cross-cutting capabilities division covering compliance, automation, knowledge management, developer advocacy, and academic research
+slug: specialized-ops
+manager: ../../agents/chief-of-staff/AGENTS.md
+includes:
   - ../../agents/agents-orchestrator/AGENTS.md
-  - ../../agents/arquitecto-de-flujo-de-trabajo-especializado/AGENTS.md
+  - ../../agents/specialized-workflow-architect/AGENTS.md
   - ../../agents/specialized-mcp-builder/AGENTS.md
   - ../../agents/specialized-developer-advocate/AGENTS.md
-  - ../../agentes/generador-de-documentos-especializados/AGENTES.md
+  - ../../agents/specialized-document-generator/AGENTS.md
   - ../../agents/specialized-salesforce-architect/AGENTS.md
-  - ../../agentes/modelo-especializado-qa/AGENTES.md
-  - ../../agentes/estratega-de-inteligencia-cultural-especializada/AGENTES.md
+  - ../../agents/specialized-model-qa/AGENTS.md
+  - ../../agents/specialized-cultural-intelligence-strategist/AGENTS.md
   - ../../agents/compliance-auditor/AGENTS.md
   - ../../agents/blockchain-security-auditor/AGENTS.md
   - ../../agents/automation-governance-architect/AGENTS.md
@@ -20,12 +20,12 @@ incluye:
   - ../../agents/lsp-index-engineer/AGENTS.md
   - ../../agents/zk-steward/AGENTS.md
   - ../../agents/accounts-payable-agent/AGENTS.md
-  - ../../agents/recruitment-especialist/AGENTS.md
+  - ../../agents/recruitment-specialist/AGENTS.md
   - ../../agents/corporate-training-designer/AGENTS.md
   - ../../agents/supply-chain-strategist/AGENTS.md
   - ../../agents/healthcare-marketing-compliance/AGENTS.md
-  - ../../agentes/gobierno-consultor-de-preventa-digital/AGENTES.md
-  - ../../agentes/consultoría-especializada-en-el-mercado-francés/AGENTES.md
+  - ../../agents/government-digital-presales-consultant/AGENTS.md
+  - ../../agents/specialized-french-consulting-market/AGENTS.md
   - ../../agents/specialized-korean-business-navigator/AGENTS.md
   - ../../agents/study-abroad-advisor/AGENTS.md
   - ../../agents/data-consolidation-agent/AGENTS.md
@@ -35,12 +35,12 @@ incluye:
   - ../../agents/academic-geographer/AGENTS.md
   - ../../agents/academic-historian/AGENTS.md
   - ../../agents/academic-narratologist/AGENTS.md
-  - ../../agentes/psicólogo-académico/AGENTES.md
-etiquetas:
-  - especializado
-  - académico
-  - cumplimiento
-  - gestión del conocimiento
+  - ../../agents/academic-psychologist/AGENTS.md
+tags:
+  - specialized
+  - academic
+  - compliance
+  - knowledge-management
 ---
 
 La división de Operaciones Especializadas proporciona capacidades transversales que aumentan todas las demás divisiones. Dirigido por el Jefe de Personal, este equipo diverso incluye arquitectos de automatización, auditores de cumplimiento, especialistas en blockchain, administradores de conocimiento, defensores de desarrolladores y consultores académicos (antropología, psicología, historia, geografía, narratología) que brindan experiencia en el dominio en toda la organización.
