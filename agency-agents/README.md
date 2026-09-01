@@ -1,198 +1,198 @@
-# Agency Agents
+# Agentes de agencia
 
-> A complete AI agency with 167 specialized agents across 10 divisions — engineering, design, marketing, product, sales, QA, operations, game development, spatial computing, and specialized operations
+> Una agencia de IA completa con 167 agentes especializados en 10 divisiones: ingeniería, diseño, marketing, productos, ventas, control de calidad, operaciones, desarrollo de juegos, computación espacial y operaciones especializadas.
 
-> An [Agent Company](https://agentcompanies.io) based on [Agency Agents](https://github.com/msitarzewski/agency-agents) — a large library of specialized agent role definitions for a multi-division AI agency
+> Una [Empresa de agentes](https://agentcompanies.io) basada en [Agentes de agencia](https://github.com/msitarzewski/agency-agents): una gran biblioteca de definiciones de roles de agentes especializados para una agencia de IA con múltiples divisiones
 
-![Org Chart](images/org-chart.png)
+![Organigrama](images/org-chart.png)
 
-## What's Inside
+## ¿Qué hay dentro?
 
-> This is an [Agent Company](https://agentcompanies.io) package from [Paperclip](https://paperclip.ing)
+> Este es un paquete de [Empresa Agente](https://agentcompanies.io) de [Paperclip](https://paperclip.ing)
 
-| Content | Count |
+| Contenido | Contar |
 |---------|-------|
-| Agents | 167 |
+| Agentes | 167 |
 
-### Agents
+### Agentes
 
-| Agent | Role | Reports To |
+| Agente | Rol | Informes a |
 |-------|------|------------|
-| Anthropologist | Engineer | chief-of-staff |
-| Geographer | Engineer | chief-of-staff |
-| Historian | Engineer | chief-of-staff |
-| Narratologist | Engineer | chief-of-staff |
-| Psychologist | Engineer | chief-of-staff |
-| Accounts Payable Agent | Engineer | chief-of-staff |
-| Agentic Identity & Trust Architect | Engineer | chief-of-staff |
-| Agents Orchestrator | Engineer | chief-of-staff |
-| Automation Governance Architect | Engineer | chief-of-staff |
-| Blender Add-on Engineer | Engineer | game-dev-director |
-| Blockchain Security Auditor | Engineer | chief-of-staff |
-| Chief of Staff | Engineer | ceo |
-| Chief Marketing Officer | CMO | ceo |
-| Compliance Auditor | Engineer | chief-of-staff |
-| Corporate Training Designer | Engineer | chief-of-staff |
-| Creative Director | Engineer | ceo |
-| Data Consolidation Agent | Engineer | chief-of-staff |
-| Brand Guardian | Engineer | creative-director |
-| Image Prompt Engineer | Engineer | creative-director |
-| Inclusive Visuals Specialist | Engineer | creative-director |
-| UI Designer | Engineer | creative-director |
-| UX Architect | Engineer | creative-director |
-| UX Researcher | Engineer | creative-director |
-| Visual Storyteller | Engineer | creative-director |
-| Whimsy Injector | Engineer | creative-director |
-| AI Data Remediation Engineer | Engineer | vp-engineering |
-| AI Engineer | Engineer | vp-engineering |
-| Autonomous Optimization Architect | Engineer | vp-engineering |
-| Backend Architect | Engineer | vp-engineering |
-| Code Reviewer | Engineer | vp-engineering |
-| Data Engineer | Engineer | vp-engineering |
-| Database Optimizer | Engineer | vp-engineering |
-| DevOps Automator | Engineer | vp-engineering |
-| Embedded Firmware Engineer | Engineer | vp-engineering |
-| Feishu Integration Developer | Engineer | vp-engineering |
-| Frontend Developer | Engineer | vp-engineering |
-| Git Workflow Master | Engineer | vp-engineering |
-| Incident Response Commander | Engineer | vp-engineering |
-| Mobile App Builder | Engineer | vp-engineering |
-| Rapid Prototyper | Engineer | vp-engineering |
-| Security Engineer | Engineer | vp-engineering |
-| Senior Developer | Engineer | vp-engineering |
-| Software Architect | Engineer | vp-engineering |
-| Solidity Smart Contract Engineer | Engineer | vp-engineering |
-| SRE (Site Reliability Engineer) | Engineer | vp-engineering |
-| Technical Writer | Engineer | vp-engineering |
-| Threat Detection Engineer | Engineer | vp-engineering |
-| WeChat Mini Program Developer | Engineer | vp-engineering |
-| Game Audio Engineer | Engineer | game-dev-director |
-| Game Designer | Engineer | game-dev-director |
-| Game Development Director | Engineer | ceo |
-| Godot Gameplay Scripter | Engineer | game-dev-director |
-| Godot Multiplayer Engineer | Engineer | game-dev-director |
-| Godot Shader Developer | Engineer | game-dev-director |
-| Government Digital Presales Consultant | Engineer | chief-of-staff |
-| Healthcare Marketing Compliance Specialist | Engineer | chief-of-staff |
-| Identity Graph Operator | Engineer | chief-of-staff |
-| Level Designer | Engineer | game-dev-director |
-| LSP/Index Engineer | Engineer | chief-of-staff |
-| macOS Spatial/Metal Engineer | Engineer | xr-director |
-| CEO | Engineer | — |
-| AI Citation Strategist | Engineer | cmo |
-| App Store Optimizer | Engineer | cmo |
-| Baidu SEO Specialist | Engineer | cmo |
-| Bilibili Content Strategist | Engineer | cmo |
-| Book Co-Author | Engineer | cmo |
-| Carousel Growth Engine | Engineer | cmo |
-| China E-Commerce Operator | Engineer | cmo |
-| Content Creator | Engineer | cmo |
-| Cross-Border E-Commerce Specialist | Engineer | cmo |
-| Douyin Strategist | Engineer | cmo |
-| Growth Hacker | Engineer | cmo |
-| Instagram Curator | Engineer | cmo |
-| Kuaishou Strategist | Engineer | cmo |
-| LinkedIn Content Creator | Engineer | cmo |
-| Livestream Commerce Coach | Engineer | cmo |
-| Podcast Strategist | Engineer | cmo |
-| Private Domain Operator | Engineer | cmo |
-| Reddit Community Builder | Engineer | cmo |
-| SEO Specialist | Engineer | cmo |
-| Short-Video Editing Coach | Engineer | cmo |
-| Social Media Strategist | Engineer | cmo |
-| TikTok Strategist | Engineer | cmo |
-| Twitter Engager | Engineer | cmo |
-| WeChat Official Account Manager | Manager | cmo |
-| Weibo Strategist | Engineer | cmo |
-| Xiaohongshu Specialist | Engineer | cmo |
-| Zhihu Strategist | Engineer | cmo |
-| Narrative Designer | Engineer | game-dev-director |
-| Paid Media Auditor | Engineer | cmo |
-| Ad Creative Strategist | Engineer | cmo |
-| Paid Social Strategist | Engineer | cmo |
-| PPC Campaign Strategist | Engineer | cmo |
-| Programmatic & Display Buyer | Engineer | cmo |
-| Search Query Analyst | Engineer | cmo |
-| Tracking & Measurement Specialist | Engineer | cmo |
-| Behavioral Nudge Engine | Engineer | vp-product |
-| Feedback Synthesizer | Engineer | vp-product |
-| Product Manager | Manager | vp-product |
-| Sprint Prioritizer | Engineer | vp-product |
-| Trend Researcher | Engineer | vp-product |
-| Experiment Tracker | Engineer | vp-product |
-| Jira Workflow Steward | Engineer | vp-product |
-| Project Shepherd | Engineer | vp-product |
-| Studio Operations | Engineer | vp-product |
-| Studio Producer | Engineer | vp-product |
-| Senior Project Manager | Manager | vp-product |
-| QA Director | Engineer | vp-engineering |
-| Recruitment Specialist | Engineer | chief-of-staff |
-| Report Distribution Agent | Engineer | chief-of-staff |
-| Roblox Avatar Creator | Engineer | game-dev-director |
-| Roblox Experience Designer | Engineer | game-dev-director |
-| Roblox Systems Scripter | Engineer | game-dev-director |
-| Account Strategist | Engineer | vp-sales |
-| Sales Coach | Engineer | vp-sales |
-| Sales Data Extraction Agent | Engineer | chief-of-staff |
-| Deal Strategist | Engineer | vp-sales |
-| Discovery Coach | Engineer | vp-sales |
-| Sales Engineer | Engineer | vp-sales |
-| Outbound Strategist | Engineer | vp-sales |
-| Pipeline Analyst | Engineer | vp-sales |
-| Proposal Strategist | Engineer | vp-sales |
-| Cultural Intelligence Strategist | Engineer | chief-of-staff |
-| Developer Advocate | Engineer | chief-of-staff |
-| Document Generator | Engineer | chief-of-staff |
-| French Consulting Market Navigator | Engineer | chief-of-staff |
-| Korean Business Navigator | Engineer | chief-of-staff |
-| MCP Builder | Engineer | chief-of-staff |
-| Model QA Specialist | Engineer | chief-of-staff |
-| Salesforce Architect | Engineer | chief-of-staff |
-| Workflow Architect | Engineer | chief-of-staff |
-| Study Abroad Advisor | Engineer | chief-of-staff |
-| Supply Chain Strategist | Engineer | chief-of-staff |
-| Analytics Reporter | Engineer | vp-operations |
-| Executive Summary Generator | Engineer | vp-operations |
-| Finance Tracker | Engineer | vp-operations |
-| Infrastructure Maintainer | Engineer | vp-operations |
-| Legal Compliance Checker | Engineer | vp-operations |
-| Support Responder | Engineer | vp-operations |
-| Technical Artist | Engineer | game-dev-director |
-| Terminal Integration Specialist | Engineer | xr-director |
-| Accessibility Auditor | Engineer | qa-director |
-| API Tester | Engineer | qa-director |
-| Evidence Collector | Engineer | qa-director |
-| Performance Benchmarker | Engineer | qa-director |
-| Reality Checker | Engineer | qa-director |
-| Test Results Analyzer | Engineer | qa-director |
-| Tool Evaluator | Engineer | qa-director |
-| Workflow Optimizer | Engineer | qa-director |
-| Unity Architect | Engineer | game-dev-director |
-| Unity Editor Tool Developer | Engineer | game-dev-director |
-| Unity Multiplayer Engineer | Engineer | game-dev-director |
-| Unity Shader Graph Artist | Engineer | game-dev-director |
-| Unreal Multiplayer Architect | Engineer | game-dev-director |
-| Unreal Systems Engineer | Engineer | game-dev-director |
-| Unreal Technical Artist | Engineer | game-dev-director |
-| Unreal World Builder | Engineer | game-dev-director |
-| visionOS Spatial Engineer | Engineer | xr-director |
-| VP of Engineering | VP | ceo |
-| VP of Operations | VP | ceo |
-| VP of Product | VP | ceo |
-| VP of Sales | VP | ceo |
-| XR Cockpit Interaction Specialist | Engineer | xr-director |
-| XR Director | Engineer | vp-engineering |
-| XR Immersive Developer | Engineer | xr-director |
-| XR Interface Architect | Engineer | xr-director |
-| ZK Steward | Engineer | chief-of-staff |
+| Antropólogo | Ingeniero | jefe de gabinete |
+| Geógrafo | Ingeniero | jefe de gabinete |
+| Historiador | Ingeniero | jefe de gabinete |
+| Narratólogo | Ingeniero | jefe de gabinete |
+| Psicólogo | Ingeniero | jefe de gabinete |
+| Agente de Cuentas por Pagar | Ingeniero | jefe de gabinete |
+| Arquitecto de confianza y identidad agente | Ingeniero | jefe de gabinete |
+| Orquestador de agentes | Ingeniero | jefe de gabinete |
+| Arquitecto de gobernanza de automatización | Ingeniero | jefe de gabinete |
+| Ingeniero de complementos de Blender | Ingeniero | director-dev-juego |
+| Auditor de seguridad blockchain | Ingeniero | jefe de gabinete |
+| Jefe de Gabinete | Ingeniero | director ejecutivo |
+| Director de marketing | Director de marketing | director ejecutivo |
+| Auditor de Cumplimiento | Ingeniero | jefe de gabinete |
+| Diseñador de Capacitación Corporativa | Ingeniero | jefe de gabinete |
+| Director creativo | Ingeniero | director ejecutivo |
+| Agente de consolidación de datos | Ingeniero | jefe de gabinete |
+| Guardián de la marca | Ingeniero | director creativo |
+| Ingeniero de mensajes de imagen | Ingeniero | director creativo |
+| Especialista en Visuales Inclusivas | Ingeniero | director creativo |
+| Diseñador de interfaz de usuario | Ingeniero | director creativo |
+| Arquitecto UX | Ingeniero | director creativo |
+| Investigador UX | Ingeniero | director creativo |
+| Narrador Visual | Ingeniero | director creativo |
+| Inyector caprichoso | Ingeniero | director creativo |
+| Ingeniero de remediación de datos de IA | Ingeniero | vicepresidente-ingeniería |
+| Ingeniero de IA | Ingeniero | vicepresidente-ingeniería |
+| Arquitecto de optimización autónomo | Ingeniero | vicepresidente-ingeniería |
+| Arquitecto de back-end | Ingeniero | vicepresidente-ingeniería |
+| Revisor de código | Ingeniero | vicepresidente-ingeniería |
+| Ingeniero de datos | Ingeniero | vicepresidente-ingeniería |
+| Optimizador de bases de datos | Ingeniero | vicepresidente-ingeniería |
+| Automatizador DevOps | Ingeniero | vicepresidente-ingeniería |
+| Ingeniero de firmware integrado | Ingeniero | vicepresidente-ingeniería |
+| Desarrollador de integración Feishu | Ingeniero | vicepresidente-ingeniería |
+| Desarrollador Frontend | Ingeniero | vicepresidente-ingeniería |
+| Maestro de flujo de trabajo de Git | Ingeniero | vicepresidente-ingeniería |
+| Comandante de respuesta a incidentes | Ingeniero | vicepresidente-ingeniería |
+| Creador de aplicaciones móviles | Ingeniero | vicepresidente-ingeniería |
+| Prototipo rápido | Ingeniero | vicepresidente-ingeniería |
+| Ingeniero de Seguridad | Ingeniero | vicepresidente-ingeniería |
+| Desarrollador sénior | Ingeniero | vicepresidente-ingeniería |
+| Arquitecto de software | Ingeniero | vicepresidente-ingeniería |
+| Ingeniero de contratos inteligentes de Solidity | Ingeniero | vicepresidente-ingeniería |
+| SRE (Ingeniero de Confiabilidad del Sitio) | Ingeniero | vicepresidente-ingeniería |
+| Redactor técnico | Ingeniero | vicepresidente-ingeniería |
+| Ingeniero de detección de amenazas | Ingeniero | vicepresidente-ingeniería |
+| Desarrollador del miniprograma WeChat | Ingeniero | vicepresidente-ingeniería |
+| Ingeniero de audio de juegos | Ingeniero | director-dev-juego |
+| Diseñador de juegos | Ingeniero | director-dev-juego |
+| Director de desarrollo de juegos | Ingeniero | director ejecutivo |
+| Guión de juego de Godot | Ingeniero | director-dev-juego |
+| Ingeniero multijugador Godot | Ingeniero | director-dev-juego |
+| Desarrollador de sombreadores Godot | Ingeniero | director-dev-juego |
+| Consultora Preventa Digital Gobierno | Ingeniero | jefe de gabinete |
+| Especialista en cumplimiento de marketing sanitario | Ingeniero | jefe de gabinete |
+| Operador de gráfico de identidad | Ingeniero | jefe de gabinete |
+| Diseñador de niveles | Ingeniero | director-dev-juego |
+| LSP/Ingeniero de índices | Ingeniero | jefe de gabinete |
+| Ingeniero espacial/metalico de macOS | Ingeniero | director xr |
+| Director ejecutivo | Ingeniero | — |
+| Estratega de citas de IA | Ingeniero | cmo |
+| Optimizador de la tienda de aplicaciones | Ingeniero | cmo |
+| SEO BaiduEspecialista | Ingeniero | cmo |
+| Estratega de contenido de Bilibili | Ingeniero | cmo |
+| Coautor del libro | Ingeniero | cmo |
+| Motor de crecimiento en carrusel | Ingeniero | cmo |
+| Operador de comercio electrónico de China | Ingeniero | cmo |
+| Creador de contenido | Ingeniero | cmo |
+| Especialista en comercio electrónico transfronterizo | Ingeniero | cmo |
+| Estratega Douyin | Ingeniero | cmo |
+| Hacker de crecimiento | Ingeniero | cmo |
+| Curador de Instagram | Ingeniero | cmo |
+| Estratega de Kuaishou | Ingeniero | cmo |
+| Creador de contenido de LinkedIn | Ingeniero | cmo |
+| Entrenador de comercio en vivo | Ingeniero | cmo |
+| Estratega de podcasts | Ingeniero | cmo |
+| Operador de Dominio Privado | Ingeniero | cmo |
+| Creador de comunidades de Reddit | Ingeniero | cmo |
+| Especialista en SEO | Ingeniero | cmo |
+| Entrenador de edición de videos cortos | Ingeniero | cmo |
+| Estratega de redes sociales | Ingeniero | cmo |
+| Estratega de TikTok | Ingeniero | cmo |
+| Participador de Twitter | Ingeniero | cmo |
+| Gerente de cuentas oficial de WeChat | Gerente | cmo |
+| Estratega de Weibo | Ingeniero | cmo |
+| Especialista en Xiaohongshu | Ingeniero | cmo |
+| Estratega Zhihu | Ingeniero | cmo |
+| Diseñador narrativo | Ingeniero | director-dev-juego |
+| Auditor de medios pagados | Ingeniero | cmo |
+| Estratega creativo publicitario | Ingeniero | cmo |
+| Estratega social remunerado | Ingeniero | cmo |
+| Estratega de campaña de PPC | Ingeniero | cmo |
+| Comprador programático y de display | Ingeniero | cmo |
+| Analista de consultas de búsqueda | Ingeniero | cmo |
+| Especialista en seguimiento y medición | Ingeniero | cmo |
+| Motor de empuje conductual | Ingeniero | vicepresidente-producto |
+| Sintetizador de retroalimentación | Ingeniero | vicepresidente-producto |
+| Gerente de Producto | Gerente | vicepresidente-producto |
+| Priorizador de Sprint | Ingeniero | vicepresidente-producto |
+| Investigador de tendencias | Ingeniero | vicepresidente-producto |
+| Rastreador de experimentos | Ingeniero | vicepresidente-producto |
+| Administrador del flujo de trabajo de Jira | Ingeniero | vicepresidente-producto |
+| Proyecto Pastor | Ingeniero | vicepresidente-producto |
+| Operaciones de estudio | Ingeniero | vicepresidente-producto |
+| Productor de estudio | Ingeniero | vicepresidente-producto |
+| Gerente Sénior de Proyectos | Gerente | vicepresidente-producto |
+| Director de control de calidad | Ingeniero | vicepresidente-ingeniería |
+| Especialista en Reclutamiento | Ingeniero | jefe de gabinete |
+| Agente de distribución de informes | Ingeniero | jefe de gabinete |
+| Creador de avatares de Roblox | Ingeniero | director-dev-juego |
+| Diseñador de experiencias Roblox | Ingeniero | director-dev-juego |
+| Scripter de sistemas Roblox | Ingeniero | director-dev-juego |
+| Estratega de cuentas | Ingeniero | vicepresidente-ventas |
+| Entrenador de ventas | Ingeniero | vicepresidente-ventas |
+| Agente de extracción de datos de ventas | Ingeniero | jefe de gabinete |
+| Estratega de acuerdos | Ingeniero | vicepresidente-ventas |
+| Entrenador de descubrimiento | Ingeniero | vicepresidente-ventas |
+| Ingeniero de Ventas | Ingeniero | vicepresidente-ventas |
+| Estratega saliente | Ingeniero | vicepresidente-ventas |
+| Analista de oleoductos | Ingeniero | vicepresidente-ventas |
+| Estratega de propuestas | Ingeniero | vicepresidente-ventas |
+| Estratega de Inteligencia Cultural | Ingeniero | jefe de gabinete |
+| Defensor de los desarrolladores | Ingeniero | jefe de gabinete |
+| Generador de documentos | Ingeniero | jefe de gabinete |
+| Navegador del mercado de consultoría francés | Ingeniero | jefe de gabinete |
+| Navegador de negocios coreano | Ingeniero | jefe de gabinete |
+| Generador de MCP | Ingeniero | jefe de gabinete |
+| Especialista en control de calidad de modelos | Ingeniero | jefe de gabinete |
+| Arquitecto de Salesforce | Ingeniero | jefe de gabinete |
+| Arquitecto de flujo de trabajo | Ingeniero | jefe de gabinete |
+| Asesor de estudios en el extranjero | Ingeniero | jefe de gabinete |
+| Estratega de la cadena de suministro | Ingeniero | jefe de gabinete |
+| Reportero de análisis | Ingeniero | vicepresidente-de-operaciones |
+| Generador de resumen ejecutivo | Ingeniero | vicepresidente-de-operaciones |
+|Seguimiento de finanzas | Ingeniero | vicepresidente-de-operaciones |
+| Mantenedor de infraestructura | Ingeniero | vicepresidente-de-operaciones |
+| Comprobador de cumplimiento legal | Ingeniero | vicepresidente-de-operaciones |
+| Respondedor de soporte | Ingeniero | vicepresidente-de-operaciones |
+| Artista Técnico | Ingeniero | director-dev-juego |
+| Especialista en Integración de Terminales | Ingeniero | director xr |
+| Auditor de Accesibilidad | Ingeniero | qa-director |
+| Probador de API | Ingeniero | qa-director |
+| Recolector de pruebas | Ingeniero | qa-director |
+| Comparador de rendimiento | Ingeniero | qa-director |
+| Comprobador de la realidad | Ingeniero | qa-director |
+| Analizador de resultados de pruebas | Ingeniero | qa-director |
+| Evaluador de herramientas | Ingeniero | qa-director |
+| Optimizador de flujo de trabajo | Ingeniero | qa-director |
+| Arquitecto de la unidad | Ingeniero | director-dev-juego |
+| Desarrollador de la herramienta Unity Editor | Ingeniero | director-dev-juego |
+| Ingeniero multijugador de Unity | Ingeniero | director-dev-juego |
+| Artista gráfico de Unity Shader | Ingeniero | director-dev-juego |
+| Arquitecto multijugador irreal | Ingeniero | director-dev-juego |
+| Ingeniero de Sistemas Unreal | Ingeniero | director-dev-juego |
+| Artista técnico irreal | Ingeniero | director-dev-juego |
+| Constructor de mundos irreales | Ingeniero | director-dev-juego |
+| Ingeniero espacial de visionOS | Ingeniero | director xr |
+| Vicepresidente de Ingeniería | Vicepresidente | director ejecutivo |
+| Vicepresidente de Operaciones | Vicepresidente | director ejecutivo |
+| Vicepresidente de Producto | Vicepresidente | director ejecutivo |
+| Vicepresidente de Ventas | Vicepresidente | director ejecutivo |
+| Especialista en interacción de cabina XR | Ingeniero | director xr |
+| Directora XR | Ingeniero | vicepresidente-ingeniería |
+| Desarrollador inmersivo XR | Ingeniero | director xr |
+| Arquitecto de interfaz XR | Ingeniero | director xr |
+| Mayordomo de ZK | Ingeniero | jefe de gabinete |
 
-## Getting Started
+## Empezando
 
 ```bash
 npx paperclipai company import this-github-url-or-folder
 ```
 
-See [Paperclip](https://paperclip.ing) for more information.
+Consulte [Clip](https://paperclip.ing) para obtener más información.
 
 ---
-Exported from [Paperclip](https://paperclip.ing) on 2026-03-23
+Exportado desde [Paperclip](https://paperclip.ing) el 23/03/2026

@@ -21,40 +21,39 @@ metadata:
       license: MIT
       usage: referenced
 ---
+Agency Agents es una organización completa de IA con 167 agentes organizados en 10 divisiones. Cada agente es un especialista en el dominio con profunda experiencia, una personalidad definida y flujos de trabajo estructurados.
 
-Agency Agents is a complete AI organization with 167 agents organized into 10 divisions. Each agent is a domain specialist with deep expertise, a defined personality, and structured workflows.
+## Cómo funciona
 
-## How It Works
+Agency Agents opera en un **modelo de centro y radio**. El director general coordina entre los jefes de división, que gestionan sus equipos de forma autónoma. Para iniciativas complejas de múltiples divisiones, los agentes de agencia siguen el **marco NEXUS**: un proceso de siete fases (descubrimiento, estrategia, base, construcción, fortalecimiento, lanzamiento, operación) con puertas de calidad en cada etapa.
 
-Agency Agents operates on a **hub-and-spoke model**. The CEO coordinates across division heads, who manage their teams autonomously. For complex multi-division initiatives, Agency Agents follows the **NEXUS framework** — a seven-phase pipeline (Discovery, Strategy, Foundation, Build, Hardening, Launch, Operate) with quality gates at each stage.
+## Divisiones
 
-## Divisions
+- **Ingeniería** (23 agentes): frontend, backend, dispositivos móviles, AI/ML, DevOps, seguridad e ingeniería especializada
+- **Diseño** (8 agentes): arquitectura UX, diseño de UI, identidad de marca y narración visual.
+- **Marketing y medios pagos** (34 agentes): contenido, crecimiento, SEO, redes sociales, publicidad paga y experiencia en el mercado regional
+- **Gestión de productos y proyectos** (11 agentes): estrategia de producto, planificación de sprints y entrega multifuncional
+- **Ventas** (8 agentes): estrategia de salida, gestión de acuerdos, análisis de canales e ingeniería de ventas.
+- **Garantía de calidad** (8 agentes): pruebas de API, rendimiento, accesibilidad y certificación basada en evidencia
+- **Operaciones y soporte** (6 agentes): análisis, finanzas, cumplimiento legal, infraestructura y atención al cliente
+- **Desarrollo de juegos** (20 agentes): Unity, Unreal, Godot, Roblox, Blender y disciplinas multimotor
+- **Computación espacial y XR** (6 agentes): visionOS, WebXR, renderizado metálico y diseño de interfaz espacial
+- **Operaciones especializadas** (32 agentes): cumplimiento, automatización, gestión del conocimiento, defensa de los desarrolladores e investigación académica.
 
-- **Engineering** (23 agents) — Frontend, backend, mobile, AI/ML, DevOps, security, and specialized engineering
-- **Design** (8 agents) — UX architecture, UI design, brand identity, and visual storytelling
-- **Marketing & Paid Media** (34 agents) — Content, growth, SEO, social media, paid advertising, and regional market expertise
-- **Product & Project Management** (11 agents) — Product strategy, sprint planning, and cross-functional delivery
-- **Sales** (8 agents) — Outbound strategy, deal management, pipeline analysis, and sales engineering
-- **Quality Assurance** (8 agents) — API testing, performance, accessibility, and evidence-based certification
-- **Operations & Support** (6 agents) — Analytics, finance, legal compliance, infrastructure, and customer support
-- **Game Development** (20 agents) — Unity, Unreal, Godot, Roblox, Blender, and cross-engine disciplines
-- **Spatial Computing & XR** (6 agents) — visionOS, WebXR, Metal rendering, and spatial interface design
-- **Specialized Operations** (32 agents) — Compliance, automation, knowledge management, developer advocacy, and academic research
+## Liderazgo
 
-## Leadership
-
-| Role | Slug | Reports To |
+| Rol | Babosa | Informes a |
 |------|------|------------|
-| Managing Director & CEO | ceo | — |
-| VP of Engineering & CTO | vp-engineering | CEO |
-| Creative Director | creative-director | CEO |
-| Chief Marketing Officer | cmo | CEO |
-| VP of Product | vp-product | CEO |
-| VP of Sales | vp-sales | CEO |
-| QA Director | qa-director | VP of Engineering |
-| VP of Operations | vp-operations | CEO |
-| Game Development Director | game-dev-director | CEO |
-| XR Director | xr-director | VP of Engineering |
-| Chief of Staff | chief-of-staff | CEO |
+| Director general y director ejecutivo | director ejecutivo | — |
+| Vicepresidente de Ingeniería y CTO | vicepresidente-ingeniería | Director ejecutivo |
+| Director creativo | director creativo | Director ejecutivo |
+| Director de marketing | cmo | Director ejecutivo |
+| Vicepresidente de Producto | vicepresidente-producto | Director ejecutivo |
+| Vicepresidente de Ventas | vicepresidente-ventas | Director ejecutivo |
+| Director de control de calidad | qa-director | Vicepresidente de Ingeniería |
+| Vicepresidente de Operaciones | vicepresidente-de-operaciones | Director ejecutivo |
+| Director de desarrollo de juegos | director-dev-juego | Director ejecutivo |
+| Directora XR | director xr | Vicepresidente de Ingeniería |
+| Jefe de Gabinete | jefe de gabinete | Director ejecutivo |
 
-Generated from [agency-agents](https://github.com/msitarzewski/agency-agents) with the company-creator skill from [Paperclip](https://github.com/paperclipai/paperclip)
+Generado a partir de [agentes-agencia](https://github.com/msitarzewski/agency-agents) con la habilidad de creador de empresa de [Paperclip](https://github.com/paperclipai/paperclip)

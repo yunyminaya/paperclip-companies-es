@@ -1,9 +1,9 @@
 ---
-name: Game Development
-description: Full-spectrum game production division spanning Unity, Unreal Engine, Godot, Roblox, Blender, and cross-engine disciplines
-slug: game-development
-manager: ../../agents/game-dev-director/AGENTS.md
-includes:
+nombre: Desarrollo de juegos
+Descripción: División de producción de juegos de espectro completo que abarca Unity, Unreal Engine, Godot, Roblox, Blender y disciplinas entre motores.
+babosa: desarrollo de juegos
+administrador: ../../agents/game-dev-director/AGENTS.md
+incluye:
   - ../../agents/game-designer/AGENTS.md
   - ../../agents/level-designer/AGENTS.md
   - ../../agents/narrative-designer/AGENTS.md
@@ -24,12 +24,12 @@ includes:
   - ../../agents/roblox-experience-designer/AGENTS.md
   - ../../agents/roblox-avatar-creator/AGENTS.md
   - ../../agents/blender-addon-engineer/AGENTS.md
-tags:
-  - game-development
-  - unity
-  - unreal
-  - godot
-  - roblox
+etiquetas:
+  - desarrollo de juegos
+  - unidad
+  - irreal
+  -Godot
+  -roblox
 ---
 
-The Game Development division handles all interactive entertainment production. Led by the Game Development Director, the team spans every major engine (Unity, Unreal, Godot, Roblox) plus cross-engine disciplines like game design, level design, narrative design, audio engineering, and technical art. Includes Blender pipeline tooling.
+La división de Desarrollo de Juegos se encarga de toda la producción de entretenimiento interactivo. Dirigido por el director de desarrollo de juegos, el equipo abarca todos los motores principales (Unity, Unreal, Godot, Roblox) además de disciplinas multimotor como diseño de juegos, diseño de niveles, diseño narrativo, ingeniería de audio y arte técnico. Incluye herramientas de canalización de Blender.

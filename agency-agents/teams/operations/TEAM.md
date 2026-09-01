@@ -1,20 +1,20 @@
 ---
-name: "Operations & Support"
-description: Business operations division covering analytics, finance, legal compliance, infrastructure, and customer support
-slug: operations
-manager: ../../agents/vp-operations/AGENTS.md
-includes:
+nombre: "Operaciones y soporte"
+Descripción: División de operaciones comerciales que cubre análisis, finanzas, cumplimiento legal, infraestructura y atención al cliente.
+babosa: operaciones
+administrador: ../../agents/vp-operaciones/AGENTS.md
+incluye:
   - ../../agents/support-analytics-reporter/AGENTS.md
   - ../../agents/support-finance-tracker/AGENTS.md
   - ../../agents/support-legal-compliance-checker/AGENTS.md
   - ../../agents/support-infrastructure-maintainer/AGENTS.md
   - ../../agents/support-support-responder/AGENTS.md
   - ../../agents/support-executive-summary-generator/AGENTS.md
-tags:
-  - operations
-  - support
-  - finance
-  - compliance
+etiquetas:
+  - operaciones
+  - apoyo
+  - finanzas
+  - cumplimiento
 ---
 
-The Operations & Support division sustains the organization's day-to-day functions. Led by the VP of Operations, the team handles financial tracking, legal compliance, infrastructure reliability, customer support, analytics reporting, and executive-level business intelligence.
+La división de Operaciones y Soporte sostiene las funciones diarias de la organización. Dirigido por el vicepresidente de operaciones, el equipo se encarga del seguimiento financiero, el cumplimiento legal, la confiabilidad de la infraestructura, la atención al cliente, los informes analíticos y la inteligencia empresarial de nivel ejecutivo.
